@@ -1,5 +1,6 @@
-This is a new file.  Now that I have two files.  What will my repository look
-like in github?
+This is a new file.  Now that I have two files.  What will my repository look like in github?
 
-Fascinating. I can edit this file from github.  Now that I'm editing from here, I suppose I will have to pull the latest
+Fascinating. I can edit this file from github.  Now that I'm editing from here (from github), Watashi suppose I will have to pull the latest
 changes back in my local repository.
+ 
+And even more changes.
